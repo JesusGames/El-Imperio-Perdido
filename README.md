@@ -33,35 +33,6 @@ Y si lo consigue… Morthaz no volverá a ser el mismo.
 
 ---
 
-## 🗂️ Estructura del Repositorio
-
-> La estructura puede evolucionar según avance la campaña.
-
-/docs
-├── contexto.md
-├── lore.md
-└── facciones.md
-/sesiones
-├── sesion-01.md
-├── sesion-02.md
-└── ...
-/personajes
-├── jugadores/
-└── npcs/
-/encuentros
-├── combates.md
-└── eventos.md
-/objetos
-├── artefactos.md
-└── items-magicos.md
-/notas-dm
-├── ideas.md
-├── finales-alternativos.md
-└── consecuencias.md
-
-
----
-
 ## 🎲 Sesiones
 
 Cada sesión incluye:
