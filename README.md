@@ -44,15 +44,22 @@ En este repo se podrán encontrar todos los guiones/bases de la campaña:
 ## 👥 Personajes
 
 ### Personajes Jugadores (PJ)
-
+Aquí se documentan los personajes jugadores:  
+su presentación inicial, evolución, decisiones importantes y consecuencias narrativas a lo largo de la campaña.
 
 ### NPCs
+Incluye personajes secundarios y principales que influyen directa o indirectamente en la historia del Imperio de Morthaz.
 
+Aliados, enemigos… y todo lo que hay en medio.
 
 ---
 
 ## ⚔️ Combate y Estilo de Juego
+- Combate con consecuencias reales  
+- La huida, el sigilo y las decisiones inteligentes son opciones válidas
+- La paz (no) es una opción
 
+La narrativa siempre prima sobre el número de enemigos derrotados.
 
 ---
 
