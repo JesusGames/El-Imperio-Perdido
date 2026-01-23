@@ -1,9 +1,10 @@
 # 🐉 Campaña de D&D – El Heredero Maldito
 
 Bienvenido a este repositorio.  
-Aquí se recoge **todo el material de la campaña de Dungeons & Dragons ambientada en el Imperio de Morthaz**, una historia oscura de rebeliones fallidas, profecías prohibidas y decisiones que nunca salen gratis.
+Aquí se recoge **todo el material de la campaña de Dungeons & Dragons "El Imperio Perdido"
+i**, una historia oscura de rebeliones fallidas, profecías prohibidas y decisiones que nunca salen gratis.
 
-Este repositorio está pensado **principalmente para el Dungeon Master**, aunque algunas secciones pueden compartirse con jugadores si se desea (bajo tu propio riesgo).
+Este repositorio está pensado **para almacenar la historia**, tal y como se defina en las sesiones.
 
 ---
 
@@ -35,15 +36,7 @@ Y si lo consigue… Morthaz no volverá a ser el mismo.
 
 ## 🎲 Sesiones
 
-Cada sesión incluye:
-- Introducción narrativa
-- Presentaciones de personajes
-- Eventos clave
-- Encuentros (combate y/o sociales)
-- Posibles desenlaces
-- Consecuencias para el mundo
-
-Ejemplo:
+En este repo se podrán encontrar todos los guiones/bases de la campaña:
 - **Sesión 1**: La Taberna del *Cántaro Roto*, la entrada del Informante y el primer choque directo con el Imperio.
 
 ---
@@ -51,25 +44,15 @@ Ejemplo:
 ## 👥 Personajes
 
 ### Personajes Jugadores (PJ)
-Los personajes son presentados de forma **narrativa**, dejando espacio para que cada jugador describa a su PJ en mesa.
+
 
 ### NPCs
-Incluye:
-- El Informante
-- Guardias Imperiales
-- Facciones
-- Antagonistas principales y secundarios
+
 
 ---
 
 ## ⚔️ Combate y Estilo de Juego
 
-- Combates **peligrosos y con consecuencias**
-- El Imperio no juega limpio
-- Más de 4 enemigos mal gestionados = muerte segura
-- Se prioriza la **tensión narrativa** sobre el combate por turnos eternos
-
-Sigilo, decisiones inteligentes y huida **son opciones válidas**.
 
 ---
 
@@ -78,7 +61,6 @@ Sigilo, decisiones inteligentes y huida **son opciones válidas**.
 - Nada está escrito en piedra  
 - Las decisiones de los jugadores **cambian el mundo**
 - No hay finales “buenos”, solo finales coherentes
-- El Imperio recuerda
 
 ---
 
@@ -87,7 +69,7 @@ Sigilo, decisiones inteligentes y huida **son opciones válidas**.
 Este repositorio contiene **spoilers graves** de la campaña.  
 Si eres jugador y estás leyendo esto sin permiso del DM…
 
-> El AMPC te está mirando ahora mismo.
+> Tonto el que lo lea.
 
 ---
 
@@ -101,7 +83,4 @@ No redistribuir sin permiso del DM.
 ## 🔥 Notas Finales
 
 Este repositorio no es solo documentación.  
-Es un registro de decisiones, errores, traiciones y consecuencias.
-
-La historia ya empezó.  
-Y Morthaz **no perdona**.
+Es un registro de todas las decisiones, errores, traiciones y consecuencias.
