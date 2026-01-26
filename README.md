@@ -1,4 +1,4 @@
-# 🐉 Campaña de D&D – El Heredero Maldito
+# 🐉 Campaña de D&D – El Imperio Maldito
 
 Bienvenido a este repositorio.  
 Aquí se recoge **todo el material de la campaña de Dungeons & Dragons "El Imperio Perdido"
