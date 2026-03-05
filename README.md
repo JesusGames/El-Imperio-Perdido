@@ -1,8 +1,7 @@
 # 🐉 Campaña de D&D – El Imperio Maldito
 
 Bienvenido a este repositorio.  
-Aquí se recoge **todo el material de la campaña de Dungeons & Dragons "El Imperio Perdido"
-i**, una historia oscura de rebeliones fallidas, profecías prohibidas y decisiones que nunca salen gratis.
+Aquí se recoge **todo el material de la campaña de Dungeons & Dragons "El Imperio Perdido"**, una historia oscura de rebeliones fallidas, profecías prohibidas y decisiones que nunca salen gratis.
 
 Este repositorio está pensado **para almacenar la historia**, tal y como se defina en las sesiones.
 
@@ -37,7 +36,7 @@ Y si lo consigue… Morthaz no volverá a ser el mismo.
 ## 🎲 Sesiones
 
 En este repo se podrán encontrar todos los guiones/bases de la campaña:
-- **Sesión 1**: La Taberna del *Cántaro Roto*, la entrada del Informante y el primer choque directo con el Imperio.
+- **Sesión 1**: La Taberna del *Cántaro Roto*, la aparición del Informante y el primer choque directo con el Imperio.
 
 ---
 
