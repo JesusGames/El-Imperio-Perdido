@@ -5,6 +5,8 @@ Aquí se recoge **todo el material de la campaña de Dungeons & Dragons "El Impe
 
 Este repositorio está pensado **para almacenar la historia**, tal y como se defina en las sesiones.
 
+[[_TOC_]]
+
 ---
 
 ## 📖 Contexto de la Campaña
